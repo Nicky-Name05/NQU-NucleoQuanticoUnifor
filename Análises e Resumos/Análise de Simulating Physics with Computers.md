@@ -1,7 +1,7 @@
 # Análise de Simulating Physics with Computers
->Título: **Simulating Physics with Computers**[^1]
->Autor: Richard P. Feynman
->PDF:[Análise de Simulating Physics with Computers.pdf](<Análise de Simulating Physics with Computers.pdf>)
+>Título: **Simulating Physics with Computers**[^1]  
+>Autor: Richard P. Feynman  
+>PDF:[Análise de Simulating Physics with Computers.pdf]( <Análise de Simulating Physics with Computers.pdf>) 
 
 #analise #resumo
 

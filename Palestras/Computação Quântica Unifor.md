@@ -1,7 +1,7 @@
 # Computação Quântica Unifor
-> Palestra por Paulo Henrique Pereira Silva [^1]
-> PDF: [Computação Quântica Unifor](<Pdfs/Computação Quântica Unifor.pdf>)
-> Slide: 
+> Palestra por Paulo Henrique Pereira Silva [^1]  
+> PDF: [Computação Quântica Unifor](<Pdfs/Computação Quântica Unifor.pdf>)  
+> Slide:   
 
 #palestra
 

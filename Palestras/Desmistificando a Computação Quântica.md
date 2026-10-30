@@ -1,7 +1,7 @@
 # Desmistificando a Computação Quântica
->Palestra por Karoline Rodrigues Lima[^1]
-PDF: [Desmistificando a Computação Quântica](<Desmistificando a Computação Quântica.pdf>)
-Slide: 
+>Palestra por Karoline Rodrigues Lima[^1]  
+PDF: [Desmistificando a Computação Quântica](<Desmistificando a Computação Quântica.pdf>)  
+Slide:  
 
 #palestra 
 
@@ -11,9 +11,10 @@ A quântica é associada a equações confusas e/ou pouco intuitivas e por isso 
 ## Física quântica
 Nasce de discrepâncias entre previsões da física clássica e os experimentos
 ### Radiação de corpo negro
-Todos os corpos produzem radiação eletromagnética devido a sua temperatura (radiação térmica) e o corpo negro é o modelo ideal que absorve toda a energia que recebe e emita um  espectro de caráter especifico
+Todos os corpos produzem radiação eletromagnética devido a sua temperatura (radiação térmica) e o corpo negro é o modelo ideal que absorve toda a energia que recebe e emita um  espectro de caráter especifico.
 
-> [!Important] Mas como cada corpo produz um espectro dependente de sua temperatura?
+> [!IMPORTANT]
+>  Mas como cada corpo produz um espectro dependente de sua temperatura?
 > Em experimentos, a intensidade não aumentava exponencialmente que nem previa a física quântica.
 >Plank soluciona isso ao considerar que a energia é quantizada e em altas temperaturas é difícil que aja troca de temperatura.
 
@@ -21,8 +22,10 @@ Todos os corpos produzem radiação eletromagnética devido a sua temperatura (r
 
 quando uma luz incide sobre um metal elétrons são ejetados
 
->[!Important] Mas é a intensidade da luz ou a frequência da luz que fazem eles serem ejetados?
-É a frequência que é quem determina isso, provado por Einstein, que propôs que a luz é composta por quantons (fótons atualmente) 
+>[!IMPORTANT]
+>Mas é a intensidade da luz ou a frequência da luz que fazem eles serem ejetados?
+É a frequência que é quem determina isso, provado por Einstein, que propôs que a luz é composta por quantons (fótons atualmente).
+>
 > $$ energia = constante \; de \; plank * frequência$$
 ### Comportamento de onda-partícula
 
