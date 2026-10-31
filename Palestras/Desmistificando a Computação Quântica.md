@@ -1,5 +1,5 @@
 ---
-title: '"Desmistificando a Computação Quântica"'
+title: "Desmistificando a Computação Quântica"
 tags:
   - palestra
 ---
