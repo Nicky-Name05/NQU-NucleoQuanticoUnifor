@@ -1,9 +1,11 @@
+---
+tags:
+  - palestra
+---
 # Computação Quântica Unifor
 > Palestra por Paulo Henrique Pereira Silva [^1]  
 > PDF: [Computação Quântica Unifor](<Pdfs/Computação Quântica Unifor.pdf>)  
 > Slide:   
-
-#palestra
 
 [^1]: SILVA, PAULO HENRIQUE PEREIRA; LIMA, KAROLINE RODRIGUES. **Computação Quântica Unifor**. Universidade de Fortaleza, Fortaleza, CE, 30 set. 2026.
 ## Grupo de estudos
