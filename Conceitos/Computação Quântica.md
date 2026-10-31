@@ -1,6 +1,7 @@
 ---
 title: "Computação Quântica"
-tags: - conceito
+tags: 
+- conceito
 ---
 # Computação Quântica
 
