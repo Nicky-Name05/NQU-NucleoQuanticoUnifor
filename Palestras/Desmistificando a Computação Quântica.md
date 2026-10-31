@@ -1,4 +1,5 @@
 ---
+title: '"Desmistificando a Computação Quântica"'
 tags:
   - palestra
 ---
@@ -28,7 +29,7 @@ quando uma luz incide sobre um metal elétrons são ejetados
 >Mas é a intensidade da luz ou a frequência da luz que fazem eles serem ejetados?
 É a frequência que é quem determina isso, provado por Einstein, que propôs que a luz é composta por quantons (fótons atualmente).
 >
-> $$ energia = constante \; de \; plank * frequência$$
+> $$ energia = constante \ de \ plank * frequência$$
 ### Comportamento de onda-partícula
 
 #### Comportamento de onda
@@ -41,7 +42,7 @@ Em 1924, foi teorizado que partículas tem comportamentos ondulatórios
 Se supormos que os elétrons são bolinhas, a formação de franjas é indicativo de interação das partículas. Como os elétrons são probabilidades, enquanto eles não são observados, aua posição é desconhecida e "existe" em ambos os estados até ser visto.
 
 ## Emaranhamento
-O resultado/ estado de uma partícula quântica emaranhada com outra muda o estado junto com ela.
+O resultado/estado de uma partícula quântica emaranhada com outra muda o estado junto com ela.
 # Computação Quântica
 
 ## Diferença com a clássica
@@ -62,9 +63,8 @@ Fatoração de números: achar uma combinação de primos que gera um numero, é
 
 ## Possibilidades
 
-Saúde: simulação de moléculas e mapeamento de genomas
-Computação: Cyber segurança
-
+- Saúde: simulação de moléculas e mapeamento de genomas
+- Computação: Cyber segurança
 ## Desafios
 - Ruido e perda de coerência
 - Aumento de escala

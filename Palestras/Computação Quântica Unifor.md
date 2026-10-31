@@ -1,4 +1,5 @@
 ---
+title: '"Computação Quântica Unifor"'
 tags:
   - palestra
 ---

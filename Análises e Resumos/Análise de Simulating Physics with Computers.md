@@ -1,5 +1,5 @@
 ---
-title: Análise de Simulating Physics with Computers
+title: '"Análise de Simulating Physics with Computers"'
 tags:
   - analise
   - resumo
