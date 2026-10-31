@@ -1,7 +1,7 @@
 ---
-title: '"Computação Quântica Unifor"'
-tags:
-  - palestra
+title: "Computação Quântica Unifor"
+tags: 
+- palestra
 ---
 # Computação Quântica Unifor
 > Palestra por Paulo Henrique Pereira Silva [^1]  
