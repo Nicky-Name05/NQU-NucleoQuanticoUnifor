@@ -5,8 +5,8 @@ tags:
 ---
 # Desmistificando a Computação Quântica
 >Palestra por Karoline Rodrigues Lima[^1]  
-PDF: [Desmistificando a Computação Quântica](<Pdfs/Desmistificando a Computação Quântica.pdf>)  
-Slide: [Palestra Desmistificando a Computação Quântica](<Pdfs/Palestra Desmistificando a Computação Quântica.pdf>)  
+PDF: [Desmistificando a Computação Quântica](<../Pdfs/Desmistificando a Computação Quântica.pdf>)  
+Slide: [Palestra Desmistificando a Computação Quântica](<../Pdfs/Palestra Desmistificando a Computação Quântica.pdf>)  
 
 [^1]:LIMA, KAROLINE RODRIGUES; SILVA, PAULO HENRIQUE PEREIRA. **Desmistificando a Computação Quântica**. Universidade de Fortaleza, Fortaleza, CE, 30 set. 2026.
 ## O que é quântica?
