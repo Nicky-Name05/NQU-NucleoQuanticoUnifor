@@ -1,7 +1,7 @@
 ---
 title: "Desmistificando a Computação Quântica"
-tags: 
-- palestra
+tags:
+  - palestra
 ---
 # Desmistificando a Computação Quântica
 >Palestra por Karoline Rodrigues Lima[^1]  
