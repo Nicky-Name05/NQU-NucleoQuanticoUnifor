@@ -7,7 +7,7 @@ tags:
 # Análise de Simulating Physics with Computers
 >Título: **Simulating Physics with Computers**[^1]  
 >Autor: Richard P. Feynman  
->PDF:[Análise de Simulating Physics with Computers.pdf]( <pdfs/Análise de Simulating Physics with Computers.pdf>) 
+>PDF:[Análise de Simulating Physics with Computers.pdf]( <Pdfs/Análise de Simulating Physics with Computers.pdf>)  
 
 [^1]: Feynman, Richard P.. Simulating Physics with Computers. **International Journal of Theoretical Physics**, vol 21, n. 6/7, 1982. Disponível em: http://link.springer.com/10.1007/BF02650179. Acesso em 16 de setembro de 2026.
 ## Resumo
