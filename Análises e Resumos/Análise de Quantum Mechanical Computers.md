@@ -1,7 +1,8 @@
 ---
-tags:
-  - analise
-  - resumo
+title: "Análise de Quantum Mechanical Computers"
+tags: 
+- analise 
+- resumo
 ---
 # Análise de Quantum Mechanical Computers
 >Título: **Quantum Mechanical Computers**[^1]  
