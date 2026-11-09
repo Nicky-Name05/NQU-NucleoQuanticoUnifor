@@ -13,7 +13,6 @@ Futuramente, estamos estudando a possibilidade de torná-lo uma pequena wiki do 
 ```mermaid
 timeline
     title Linha do tempo
-    2024.2 : Idealização do Grupo
     2025.1 : Criação do grupo
 	2025.2 : 1º Curso de Férias 
 	2026.1 : Criação dos primeiros materiais do grupo : 2º Curso de Férias : Apresentação no Dia T

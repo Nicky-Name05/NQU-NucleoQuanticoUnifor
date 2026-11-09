@@ -6,7 +6,7 @@ tags:
 # Computação Quântica Unifor
 > Palestra por Paulo Henrique Pereira Silva [^1]  
 > PDF: [Computação Quântica Unifor](<../Pdfs/Computação Quântica Unifor.pdf>)  
-> Slide:   
+> Slide: https://canva.link/9m9kqru016nw4m4  
 
 [^1]: SILVA, PAULO HENRIQUE PEREIRA; LIMA, KAROLINE RODRIGUES. **Computação Quântica Unifor**. Universidade de Fortaleza, Fortaleza, CE, 30 set. 2026.
 ## Grupo de estudos
@@ -21,12 +21,14 @@ A["Computadores mecânicos (pessoas)"]
 B[Válvulas com lâmpadas]
 C["válvulas elétrica
 (transistors)"]
-D["micro válvulas
+D["Introdução dos circuitos Integrados"]
+E["micro válvulas
 (miniaturização dos transistors)"]
 
 A --> B;
 B --> C;
 C --> D;
+D --> E;
 
 ```
 
