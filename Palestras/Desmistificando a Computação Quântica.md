@@ -17,7 +17,7 @@ Nasce de discrepâncias entre previsões da física clássica e os experimentos
 Todos os corpos produzem radiação eletromagnética devido a sua temperatura (radiação térmica) e o corpo negro é o modelo ideal que absorve toda a energia que recebe e emita um  espectro de caráter especifico.
 
 > [!IMPORTANT]
->  Mas como cada corpo produz um espectro dependente de sua temperatura?
+>  **Mas como cada corpo produz um espectro dependente de sua temperatura?**
 > Em experimentos, a intensidade não aumentava exponencialmente que nem previa a física quântica.
 >Plank soluciona isso ao considerar que a energia é quantizada e em altas temperaturas é difícil que aja troca de temperatura.
 
@@ -26,7 +26,7 @@ Todos os corpos produzem radiação eletromagnética devido a sua temperatura (r
 quando uma luz incide sobre um metal elétrons são ejetados
 
 >[!IMPORTANT]
->Mas é a intensidade da luz ou a frequência da luz que fazem eles serem ejetados?
+>**Mas é a intensidade da luz ou a frequência da luz que fazem eles serem ejetados?**
 É a frequência que é quem determina isso, provado por Einstein, que propôs que a luz é composta por quantons (fótons atualmente).
 >
 > $$ energia = constante \ de \ plank * frequência$$
